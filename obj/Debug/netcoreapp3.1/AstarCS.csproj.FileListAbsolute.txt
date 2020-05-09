@@ -1,0 +1,11 @@
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.exe
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.deps.json
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.runtimeconfig.json
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.runtimeconfig.dev.json
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.dll
+E:\AstarCS\bin\Debug\netcoreapp3.1\AstarCS.pdb
+E:\AstarCS\obj\Debug\netcoreapp3.1\AstarCS.csprojAssemblyReference.cache
+E:\AstarCS\obj\Debug\netcoreapp3.1\AstarCS.AssemblyInfoInputs.cache
+E:\AstarCS\obj\Debug\netcoreapp3.1\AstarCS.AssemblyInfo.cs
+E:\AstarCS\obj\Debug\netcoreapp3.1\AstarCS.dll
+E:\AstarCS\obj\Debug\netcoreapp3.1\AstarCS.pdb
